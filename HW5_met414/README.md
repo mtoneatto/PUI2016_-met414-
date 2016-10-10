@@ -19,7 +19,7 @@ H0: U1 = U2
 Null Hypothesis: A majority of Americans believe that President Bill Clinton has the honesty and integrity they expect in 
 a president. 
 
-H0: p = p0
+H0: p <= p0
 
 
 ### Question 3: What is the effectiveness of the nicotine patch to quit smoking?
