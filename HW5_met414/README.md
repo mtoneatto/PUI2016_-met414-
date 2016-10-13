@@ -1,7 +1,11 @@
 
+# Assignment 1
 
+For this assignment, I worked closely with my groupmates Kelsey Reid, Will Xia, Matt Sloan and Ozgur Akkas. Following previous homework assignments, I was able to successfully access the citibike data, "wrangle" it to filter out only the age data needed for this assignment. With assistance from my group, we were able to apply the KS and AD tests. 
 
+# Assignment 2
 
+For this assignment, I worked very closely with my groupmates listed above. I relied heavily on the skeleton notebook to establish the framework of my notebook, and my groupmates were critical in the process of filling in the missing pieces. Creating the multiple plots for median incomesby gender and ethnicity proved to be a significant challenge.
 
 
 # Assignment 3
