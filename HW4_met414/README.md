@@ -11,11 +11,11 @@ MANOVA	| 1, diet| categorical | 3, Effect on Cerebral Metabolism, Cognition, Neu
 Path Analysis	| 1, Health care knowledge| continuous | 3, Effect on healthy lifestyle (HLS), use of healthcare services (HCS) ,awareness of emerging health care concerns (HCC)| continuous| n/a | n/a | Determine wether taking a course in Immunology, which is expected to improve health care knowledge, actually had a postive influence on HLS, HCS and HCC| health care knowledge test groups <= control group | 0.05 | [Influence of Immunology Knowledge on Healthcare and Healthy Lifestyle](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159767) |
  |||||||||
  
- #Assignment 3
+ # Assignment 3
  
  For this assignment, I worked closely with my group, which includes Kelsey Reid, Matt Sloane, Ozgur Akkas and Will Xia. We were developed the H1 and H0 hypotheses, ran the Z test and Chi square test. 
  
- #Assignment 4
+ # Assignment 4
  
  For this assignment, I worked with the same group. Going back to the Citibike data, we dowloanded the data as a zip file using !curl -O, then used pandas for wranglng. We dropped all columns but the Male and Female rider info, then graphed it by age in two separte charts. 
  
