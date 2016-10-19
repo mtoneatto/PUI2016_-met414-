@@ -13,3 +13,6 @@ The null hypotesis states that the Linear Fit (model 1) is a better fit than the
 
 # Assignment 2
 
+The write up for our Citibike study can be found here:
+
+https://www.authorea.com/users/106219/articles/134338/_show_article?access_token=8Nww4GhkDJi3rmQq1Ec2pw
