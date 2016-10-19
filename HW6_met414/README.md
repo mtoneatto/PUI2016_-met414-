@@ -12,3 +12,4 @@ We generated 2 scatter matrices, 2 scatter plot, 1 log plot, 2 additional plots 
 The null hypotesis states that the Linear Fit (model 1) is a better fit than the 2nd Dregree Polynomial fit (model 2). Degrees of freedom (dof) is equal to 1 and according to the table provided, the critical value is 3.84. As the Likelihood Ratio (35.8) is much larger than the critical value (3.84) we can reject the null hypothesis.
 
 # Assignment 2
+
