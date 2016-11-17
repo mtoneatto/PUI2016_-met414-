@@ -1,5 +1,5 @@
 # Plot Review
- - For this portion of the assigment I reviewed two of my colleagues plots
+ - For this portion of the assigment I reviewed two of my colleagues plots. It indeed proved to be quite an enjoyable experience. 
 
 # Assignment 1
 
