@@ -14,6 +14,7 @@
  - Issues:
       - The plot is missing a figure label and description
       - There are only 4 of 7 days of the week included
+      - The y-axis label limit should be increased
       - The location of the felonies is not clear (Total in NYC?, NYS?, US?)
 
 ### Clarity
@@ -33,4 +34,6 @@
        - The first thing that came to mind is "What is Enrique trying to hide about Fri-Sun"
 
 - Including the location of the felonies would make the plot clearer and more informative
+
+- Reviewing this plot was quite enjoyable, thank you. 
        
