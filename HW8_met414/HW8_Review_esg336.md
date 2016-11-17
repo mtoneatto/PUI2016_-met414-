@@ -2,3 +2,28 @@
 
 
 ![HW8_esg336_plot](HW8_esg336_plot.png?raw=true "Optional Title")
+
+
+# Review (by met414)
+
+### Basic Components
+
+ - The plot has most of the basic components. 
+ - The title is clear, and it is overall easy to understand
+ - The axis labels are clear
+ - Issues:
+      -  check
+
+### Clarity
+ - It is clear based on the figure description what the plot is illustrating
+ - Takeaway: The more units, the more energy used, the deeper the color 
+ 
+### Esthetic
+ - I think the plot is successful in communicating the trend in the data
+ - I believe this plot would be helpful if used in a presentation
+ 
+### Honesty
+ - The plot honestly portrays the trends in the data, there are no visible skews or misrepresentations. 
+ 
+### Suggestion
+ - Perhaps extend the axis, the scatter seems to spread out past the limits of the plot without being simple outliers. Even though the plot is labeled as "zoomed" showing the full scope of the data may be informative. 
