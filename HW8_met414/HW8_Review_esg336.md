@@ -12,18 +12,24 @@
  - The title is clear, and it is overall easy to understand
  - The axis labels are clear
  - Issues:
-      -  check
+      - The plot is missing a figure label and description
+      - There are only 4 of 7 days of the week included
+      - The location of the felonies is not clear (Total in NYC?, NYS?, US?)
 
 ### Clarity
- - It is clear based on the figure description what the plot is illustrating
- - Takeaway: The more units, the more energy used, the deeper the color 
+ - The plot is definitely straight forward, but there are some ambiguous variables
+ - Takeaway: There are more felonies committed on Monday than Tues, Wed, or Thurs
  
 ### Esthetic
- - I think the plot is successful in communicating the trend in the data
- - I believe this plot would be helpful if used in a presentation
+ - I think the plot is successful in illustrating that most felonies are committed on Mondays
+ - If this plot were used in a presentation, it would need to be accompanied by a strong narrative  
  
 ### Honesty
- - The plot honestly portrays the trends in the data, there are no visible skews or misrepresentations. 
+ - The plot honestly portrays the trends in the data for the 4 days that are shown.
  
 ### Suggestion
- - Perhaps extend the axis, the scatter seems to spread out past the limits of the plot without being simple outliers. Even though the plot is labeled as "zoomed" showing the full scope of the data may be informative. 
+ - In order to be an effective illustration, the plot should include the other 3 days of the week or explain why they are omitted. 
+       - Omission wihtout explanation opens the door to many questions and much scrutiny
+       - The first thing that came to mind is "What is Enrique trying to hide about Fri-Sun"
+- Including the location of the felonies would make the plot clearer and more informative
+       
