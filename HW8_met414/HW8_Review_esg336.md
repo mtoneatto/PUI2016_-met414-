@@ -31,5 +31,6 @@
  - In order to be an effective illustration, the plot should include the other 3 days of the week or explain why they are omitted. 
        - Omission wihtout explanation opens the door to many questions and much scrutiny
        - The first thing that came to mind is "What is Enrique trying to hide about Fri-Sun"
+
 - Including the location of the felonies would make the plot clearer and more informative
        
